@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Accessibility_In_Web_Design/static/css/main.6462e55a.chunk.css",
-    "main.js": "/Accessibility_In_Web_Design/static/js/main.2c62aef9.chunk.js",
-    "main.js.map": "/Accessibility_In_Web_Design/static/js/main.2c62aef9.chunk.js.map",
+    "main.js": "/Accessibility_In_Web_Design/static/js/main.bec34967.chunk.js",
+    "main.js.map": "/Accessibility_In_Web_Design/static/js/main.bec34967.chunk.js.map",
     "runtime-main.js": "/Accessibility_In_Web_Design/static/js/runtime-main.09ad757a.js",
     "runtime-main.js.map": "/Accessibility_In_Web_Design/static/js/runtime-main.09ad757a.js.map",
     "static/js/2.95da45ee.chunk.js": "/Accessibility_In_Web_Design/static/js/2.95da45ee.chunk.js",
     "static/js/2.95da45ee.chunk.js.map": "/Accessibility_In_Web_Design/static/js/2.95da45ee.chunk.js.map",
     "index.html": "/Accessibility_In_Web_Design/index.html",
-    "precache-manifest.4f00b055e994b3083c6034a6dfed78f9.js": "/Accessibility_In_Web_Design/precache-manifest.4f00b055e994b3083c6034a6dfed78f9.js",
+    "precache-manifest.9c1e181626900541393ef7cddae3049c.js": "/Accessibility_In_Web_Design/precache-manifest.9c1e181626900541393ef7cddae3049c.js",
     "service-worker.js": "/Accessibility_In_Web_Design/service-worker.js",
     "static/css/main.6462e55a.chunk.css.map": "/Accessibility_In_Web_Design/static/css/main.6462e55a.chunk.css.map",
     "static/js/2.95da45ee.chunk.js.LICENSE.txt": "/Accessibility_In_Web_Design/static/js/2.95da45ee.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.09ad757a.js",
     "static/js/2.95da45ee.chunk.js",
     "static/css/main.6462e55a.chunk.css",
-    "static/js/main.2c62aef9.chunk.js"
+    "static/js/main.bec34967.chunk.js"
   ]
 }
