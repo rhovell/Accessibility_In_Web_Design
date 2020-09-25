@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rhovell/Accessibility_In_Web_Design/static/css/main.6462e55a.chunk.css",
+    "main.js": "/rhovell/Accessibility_In_Web_Design/static/js/main.94b05eaf.chunk.js",
+    "main.js.map": "/rhovell/Accessibility_In_Web_Design/static/js/main.94b05eaf.chunk.js.map",
+    "runtime-main.js": "/rhovell/Accessibility_In_Web_Design/static/js/runtime-main.09c0c739.js",
+    "runtime-main.js.map": "/rhovell/Accessibility_In_Web_Design/static/js/runtime-main.09c0c739.js.map",
+    "static/js/2.95da45ee.chunk.js": "/rhovell/Accessibility_In_Web_Design/static/js/2.95da45ee.chunk.js",
+    "static/js/2.95da45ee.chunk.js.map": "/rhovell/Accessibility_In_Web_Design/static/js/2.95da45ee.chunk.js.map",
+    "index.html": "/rhovell/Accessibility_In_Web_Design/index.html",
+    "precache-manifest.6f42a3dc04a2ae484aecd04dea04506f.js": "/rhovell/Accessibility_In_Web_Design/precache-manifest.6f42a3dc04a2ae484aecd04dea04506f.js",
+    "service-worker.js": "/rhovell/Accessibility_In_Web_Design/service-worker.js",
+    "static/css/main.6462e55a.chunk.css.map": "/rhovell/Accessibility_In_Web_Design/static/css/main.6462e55a.chunk.css.map",
+    "static/js/2.95da45ee.chunk.js.LICENSE.txt": "/rhovell/Accessibility_In_Web_Design/static/js/2.95da45ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09c0c739.js",
+    "static/js/2.95da45ee.chunk.js",
+    "static/css/main.6462e55a.chunk.css",
+    "static/js/main.94b05eaf.chunk.js"
+  ]
+}
