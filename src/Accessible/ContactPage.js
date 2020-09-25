@@ -11,8 +11,6 @@ class ContactPage extends Component {
 
       }
       this.handleSubmit = this.handleSubmit.bind(this)
-      this.emailValid = this.emailValid.bind(this)
-      this.validateEmail = this.validateEmail.bind(this)
   }
 
   handleSubmit(e){
